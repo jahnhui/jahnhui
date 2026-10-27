@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. I'm a CSAM Undergrad interested in Python, C++, Computational Physics, and AI.
 
 <!--
 **jahnhui/jahnhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
